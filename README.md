@@ -15,7 +15,7 @@ Video du jeu: https://www.youtube.com/watch?v=dCa0HUAYXMw
 ## Getting Started
 Clone the repository at: **AppData\Roaming\CraftStudio\CraftStudioServer\Projects**.
 ```
-$ git clone https://github.com/AntarkaGame/CS_Spherunner.git aa3e4bd0-2a3c-48b6-927c-0fc6b4abbc30
+$ git clone https://github.com/AntarkaGame/CS_Spherunner2.git aa3e4bd0-2a3c-48b6-927c-0fc6b4abbc30
 ```
 
 > ⚠️ Please be sure to keep the uuid.
